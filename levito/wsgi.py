@@ -1,5 +1,5 @@
 """
-WSGI config for levito project.
+WSGI config  for levito project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
